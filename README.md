@@ -55,7 +55,7 @@ print("---------------------------------------------------------------")
 ```
 
 ## Output :
-![Alt text](<output 4.jpeg>)
+![Alt text](<output 6.jpeg>)
 ## Result :
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
